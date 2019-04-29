@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon, duh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-ravitz/bamazon.git"
+  },
+  "author": "adam ravitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-ravitz/bamazon/issues"
+  },
+  "homepage": "https://github.com/a-ravitz/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "console.table": "^0.10.0",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
