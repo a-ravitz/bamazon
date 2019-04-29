@@ -9,6 +9,7 @@ In order to run bamazonCustomer and bamazonManager you'll need to run an ```npm 
 To use the bamazonSupervisor app you'll need to run an ```npm install``` on ```console.table``` 
 
 <hr>
+
 ## bamazonCustomer
 
 When you open bamazonCustomer.js you'll see the following 
