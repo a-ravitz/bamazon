@@ -1,5 +1,5 @@
 ## bamazon summary
-bamazonCustomer.js, bamazonManager.js, and bamazonSupervisor are three CLI applications that simulate an Amazon-like store front that can take in orders from the store front, and it can depelete stock from the shop.  You can also track products sales accross departments and find out which department is the highest grocing in the store.
+bamazonCustomer.js, bamazonManager.js, and bamazonSupervisor are three CLI applications that simulate an Amazon-like store front that can take in orders from the store front, and can depelete stock from the shop.  You can also track products sales accross departments and find out which department is the highest grocing in the store.
 
 ## required instillations
 In order to run bamazonCustomer and bamazonManager you'll need to run an ```npm install``` on ```cli-table```, ```inquirer```, and ```mysql```
